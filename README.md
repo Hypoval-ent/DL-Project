@@ -1,7 +1,7 @@
 # Depth Anything Fine-Tuning on Cityscapes
 
 ## Overview
-This project fine-tunes the Depth Anything model for urban scene depth estimation using the Cityscapes dataset.
+This project fine-tunes the Depth Anything model for urban scene depth estimation using the Cityscapes dataset. Since the depth anything model is good for generalisation it fails for specific dataset like cityscapes we are fine tuning the model for this
 
 ## Objective
 - Improve depth prediction for urban environments
@@ -40,4 +40,6 @@ python infer.py
 Fine-tuning improves domain-specific depth estimation significantly.
 
 ## Author
-Debadatta Sahoo
+Debadatta Sahoo(B23CM1013)
+Palak Jain(B23BB1031)
+
